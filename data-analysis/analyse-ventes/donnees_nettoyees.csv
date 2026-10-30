@@ -1,0 +1,31 @@
+﻿commande_id,date,ville,produit,quantite,prix_unitaire,canal,montant,montant_calcule
+V001,2026-01-01,Tanger,Casque,4,450,Magasin,1800,1800
+V002,2026-01-03,Marrakech,Clavier,1,250,En ligne,250,250
+V003,2026-01-05,Tanger,Clavier,4,250,En ligne,1000,1000
+V004,2026-01-07,Inconnue,Écran,4,1600,Magasin,6400,6400
+V005,2026-01-09,Casablanca,Souris,4,120,Magasin,480,480
+V006,2026-01-11,Casablanca,Souris,4,120,En ligne,480,480
+V007,2026-01-13,Rabat,Clavier,3,250,En ligne,750,750
+V008,2026-01-15,Casablanca,Souris,3,120,Magasin,360,360
+V009,2026-01-17,Rabat,Souris,1,1600,Magasin,1600,1600
+V010,2026-01-19,Rabat,Souris,2,120,Magasin,240,240
+V011,2026-01-21,Marrakech,Casque,2,450,En ligne,900,900
+V012,2026-01-23,Inconnue,Casque,4,450,Magasin,1800,1800
+V013,2026-01-25,Rabat,Écran,4,1600,En ligne,6400,6400
+V014,2026-01-27,Casablanca,Casque,3,450,En ligne,1350,1350
+V015,2026-01-29,Casablanca,Écran,3,1600,En ligne,4800,4800
+V016,2026-01-31,Tanger,Clavier,2,250,En ligne,500,500
+V017,2026-02-02,Marrakech,Casque,2,450,Magasin,900,900
+V018,2026-02-04,Rabat,Écran,4,1600,En ligne,6400,6400
+V019,2026-02-06,Casablanca,Clavier,1,250,Magasin,250,250
+V020,2026-02-08,Casablanca,Souris,2,120,En ligne,240,240
+V021,2026-02-10,Marrakech,Clavier,2,250,En ligne,500,500
+V022,2026-02-12,Casablanca,Casque,3,450,Magasin,1350,1350
+V023,2026-02-14,Rabat,Écran,2,1600,Magasin,3200,3200
+V024,2026-02-16,Rabat,Casque,2,450,Magasin,900,900
+V025,2026-02-18,Casablanca,Souris,1,120,Magasin,120,120
+V026,2026-02-20,Tanger,Écran,2,1600,En ligne,3200,3200
+V027,2026-02-22,Casablanca,Écran,1,1600,Magasin,1600,1600
+V028,2026-02-24,Casablanca,Casque,3,450,En ligne,1350,1350
+V029,2026-02-26,Tanger,Clavier,2,250,En ligne,500,500
+V030,2026-02-28,Casablanca,Écran,1,1600,Magasin,1600,1600
